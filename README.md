@@ -26,8 +26,8 @@ Created for members of the **Romanian Hub for Artificial Intelligence (HRIA)** a
   6. **Key Contributions & Conclusions:** Structured takeaways and future research directions.
   7. **Acknowledgment:** Dedicated grant and institutional funding card.
 - **Institutional Header & Footer Banners:**
-  - **Header:** HRIA project logo (left), bold custom title, author names, affiliations, email contacts, and conference logo placeholder (right).
-  - **Footer:** EU & Romanian Government co-financing banner (left), large clear conference metadata (center), and UBB / Faculty banner (right).
+  - **Header:** HRIA project & EU/Government funding logo (left), bold custom title, author names, affiliations, email contacts, and conference logo placeholder (right).
+  - **Footer:** MECO research group logo (left), large clear conference metadata (center), and UBB / Faculty banner (right).
 - **Accessible & High-Contrast Styling:** Curated dark blue (`#102C62`), accent blue (`#20589B`), and clean white card containers over subtle background tints.
 - **Self-Contained & Generalized:** Includes drop-in placeholders for equations, tables, and diagrams.
 
@@ -40,8 +40,10 @@ Created for members of the **Romanian Hub for Artificial Intelligence (HRIA)** a
 ├── poster.tex            # Main LaTeX poster source code
 ├── poster.pdf            # Pre-compiled A0 poster document
 ├── poster_preview.png    # High-resolution raster preview
-├── hria.png              # Romanian Hub for Artificial Intelligence logo
-├── ue-gr.png             # EU & Romanian Government funding banner
+├── hria.png              # Romanian Hub for Artificial Intelligence & EU/Gov funding logo
+├── hria.pdf              # Vector/PDF version of HRIA funding logo
+├── meco.png              # Metaheuristics for Complex Systems (MECO) research group logo
+├── meco.pdf              # Vector/PDF version of MECO logo
 ├── ubb-uni.png           # Babeș-Bolyai University banner
 ├── .gitignore            # Standard LaTeX ignore rules
 └── README.md             # Documentation and usage guide
